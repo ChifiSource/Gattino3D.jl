@@ -1,0 +1,8 @@
+name = "Gattino3D"
+uuid = "a217f6c4-9a08-4218-8fae-34c5d6be422b"
+authors = ["emmac <emmacboudreau@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Gattino = "f0fb3ee5-f608-41f3-a42d-dac276373afc"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
